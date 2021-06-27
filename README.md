@@ -22,6 +22,7 @@ To Install the Jenkins need to follow the below steps
 2.  Install  Jenkins
          
        a. download [Jenkins(windows .msi file)](https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable) from this link 
+       
        b. check [this link](https://www.jenkins.io/doc/book/installing/windows/) to step by stem installation of the MSI installer in windows machine 
   
 
